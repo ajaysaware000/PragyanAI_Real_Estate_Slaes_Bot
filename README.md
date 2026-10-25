@@ -86,7 +86,7 @@ The project was first developed and tested in Google Colab using Gradio. Later, 
 
 ## Live Application
 
-[https://realestatesalesragbot-27vgbdw38srnpk4jta2eda.streamlit.app/]
+[https://pragyanairealestateslaesbot-bgu6bqjmirgbow6xbxz6wx.streamlit.app/]
 
 ## Future Scope
 
@@ -98,4 +98,4 @@ The project was first developed and tested in Google Colab using Gradio. Later, 
 
 ## Developed By
 
-[Sudeep S]
+[Ajay Saware]
